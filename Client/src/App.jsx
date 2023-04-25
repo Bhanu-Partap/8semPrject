@@ -1,5 +1,6 @@
 import './App.css'
 import {Navbar, Welcome, Footer, Transactions, Services} from "./Components/index"
+import "./index.css"
 
 function App() {  
 
